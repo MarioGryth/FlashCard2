@@ -13,6 +13,7 @@
 		D7DF53331EDC0BBB00DA1441 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7DF53321EDC0BBB00DA1441 /* Assets.xcassets */; };
 		D7DF53361EDC0BBB00DA1441 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7DF53341EDC0BBB00DA1441 /* LaunchScreen.storyboard */; };
 		D7DF53411EDC0BBB00DA1441 /* FlashCard2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7DF53401EDC0BBB00DA1441 /* FlashCard2Tests.swift */; };
+		D7DF534C1EDC23A400DA1441 /* TableViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7DF534B1EDC23A400DA1441 /* TableViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D7DF533C1EDC0BBB00DA1441 /* FlashCard2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlashCard2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7DF53401EDC0BBB00DA1441 /* FlashCard2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashCard2Tests.swift; sourceTree = "<group>"; };
 		D7DF53421EDC0BBB00DA1441 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7DF534B1EDC23A400DA1441 /* TableViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				D7DF53321EDC0BBB00DA1441 /* Assets.xcassets */,
 				D7DF53341EDC0BBB00DA1441 /* LaunchScreen.storyboard */,
 				D7DF53371EDC0BBB00DA1441 /* Info.plist */,
+				D7DF534B1EDC23A400DA1441 /* TableViewController2.swift */,
 			);
 			path = FlashCard2;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 			files = (
 				D7DF532E1EDC0BBB00DA1441 /* ViewController.swift in Sources */,
 				D7DF532C1EDC0BBB00DA1441 /* AppDelegate.swift in Sources */,
+				D7DF534C1EDC23A400DA1441 /* TableViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
