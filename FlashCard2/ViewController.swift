@@ -39,6 +39,7 @@ class ViewController: UIViewController {
             if nrTimesPressed > 10 {
                 textLabel.text = "BUTTON MANIAC"
                 buttonBool = true
+                //Added comment
                 
             }
         }
